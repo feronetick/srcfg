@@ -1,7 +1,4 @@
-# AUTHOR: Dmitry Lisin
-# REPO: https://github.com/dlisin/shadowrocket-config
-
-IP-CIDR,10.0.0.0/8
+# IP-CIDR,10.0.0.0/8
 IP-CIDR,127.0.0.0/8
 IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
@@ -21,3 +18,5 @@ IP-CIDR,147.75.193.0/24
 IP-CIDR,148.72.168.0/24
 IP-CIDR,148.72.174.0/24
 IP-CIDR,151.106.18.0/24
+
+
