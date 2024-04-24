@@ -1,10 +1,13 @@
+# Torrents
 DOMAIN-KEYWORD,rutracker
 DOMAIN-KEYWORD,kinozal
 
+# Fix yt images
 DOMAIN-SUFFIX,img.youtube.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
 
+# Local
 DOMAIN-SUFFIX,unpub.itgro.dev
 DOMAIN-SUFFIX,of.itgro.dev
 DOMAIN-SUFFIX,dev.frisbi24.ru
@@ -16,3 +19,7 @@ IP-CIDR,10.0.10.0/24
 IP-CIDR,10.253.0.0/16
 IP-CIDR,92.242.7.209/24
 IP-CIDR,188.128.117.69
+
+# Blocked sites
+DOMAIN-SUFFIX,meduza.io
+DOMAIN-SUFFIX==,pornhub.com
