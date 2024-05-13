@@ -24,3 +24,4 @@ IP-CIDR,188.128.117.69
 # Blocked sites
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,redgifs.com
+DOMAIN-SUFFIX,patreon.com
