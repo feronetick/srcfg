@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,img.youtube.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
 
+# Firebase
+DOMAIN-SUFFIX,firebaseappdistribution.googleapis.com
+
 # Local
 DOMAIN-SUFFIX,unpub.itgro.dev
 DOMAIN-SUFFIX,of.itgro.dev
