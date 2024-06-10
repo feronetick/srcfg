@@ -28,3 +28,7 @@ IP-CIDR,188.128.117.69
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,patreon.com
+
+# Geo restriction
+DOMAIN-SUFFIX,gemini.google.com
+
