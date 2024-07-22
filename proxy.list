@@ -10,12 +10,17 @@ DOMAIN-SUFFIX,ggpht.com
 # Firebase
 DOMAIN-SUFFIX,firebaseappdistribution.googleapis.com
 
+# Copilot
+DOMAIN-SUFFIX,api.githubcopilot.com
+
 # Local
 DOMAIN-SUFFIX,unpub.itgro.dev
 DOMAIN-SUFFIX,of.itgro.dev
 DOMAIN-SUFFIX,dev.frisbi24.ru
 DOMAIN-SUFFIX,site-stage.frisbi24.ru
 DOMAIN-SUFFIX,play.google.com
+
+# Local networks
 IP-CIDR,10.8.0.0/24
 IP-CIDR,10.7.0.0/24
 IP-CIDR,10.0.0.0/24
