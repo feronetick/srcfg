@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,rutracker
 DOMAIN-KEYWORD,kinozal
 
 # Fix yt images
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,img.youtube.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
